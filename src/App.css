@@ -56,11 +56,6 @@ body {
 .todo-item input {
     margin-right: 15px;
 }
-
-.useless {
-    font-size: 100px;
-}
-
 .todo-item button {
     background: #d35e0f;
     color: #fff;
